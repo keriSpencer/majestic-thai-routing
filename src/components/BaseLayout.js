@@ -43,7 +43,7 @@ export default class BaseLayout extends Component {
                   <Link to="/email">Contact Us</Link>
                 </li>
                 <li>
-                  <Link activeClassName="selected" to="">
+                  <Link className="selected" to="">
                     <i className="fa fa-facebook" aria-hidden="true" />
                   </Link>
                 </li>
